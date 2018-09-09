@@ -11,7 +11,10 @@
 This soccer database comes from Kaggle and is well suited for data analysis and machine learning. It contains data for soccer matches, players, and teams from several European countries from 2008 to 2016. This dataset is quite extensive, more information could be found [here](https://www.kaggle.com/hugomathien/soccer).
 
 
-![alt text](https://d18rbf1v22mj88.cloudfront.net/wp-content/uploads/sites/3/2017/09/21120307/2016_07_20-soccer-us-analytics_homepage-3-2506383460.png)
+![alt text](https://images.pexels.com/photos/200986/pexels-photo-200986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
+
+Image is from a copyright-free website: https://www.pexels.com/royalty-free-images/.
 
 
 - The database is stored in a SQLite database. We can access database files using software like [DB Browser](http://sqlitebrowser.org);
