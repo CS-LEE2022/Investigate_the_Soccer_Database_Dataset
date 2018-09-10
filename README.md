@@ -14,7 +14,7 @@ This soccer database comes from Kaggle and is well suited for data analysis and 
 ![alt text](https://images.pexels.com/photos/200986/pexels-photo-200986.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
 
-Image is from a copyright-free website: https://www.pexels.com/royalty-free-images/.
+(Image is from a copyright-free website: https://www.pexels.com/royalty-free-images/.)
 
 
 - The database is stored in a SQLite database. We can access database files using software like [DB Browser](http://sqlitebrowser.org);
